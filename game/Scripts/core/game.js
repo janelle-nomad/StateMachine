@@ -220,3 +220,4 @@ function changeState(state) {
     currentState.start();
     console.log(currentState.numChildren);
 }
+//# sourceMappingURL=game.js.map

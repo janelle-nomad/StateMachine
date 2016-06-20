@@ -18,7 +18,7 @@ var states;
             this._levelLabel = new objects.Label("You decide to play snakes and ladders\n\n\n\nWhen there's a knock on the door", "1.5em Consolas", "#000000", 220, 120);
             this.addChild(this._levelLabel); // add label to the stage
             // choice 1 label
-            this._choiceThinking = new objects.Label("Call 911", "1.5em Consolas", "#000000", 210, 300);
+            this._choiceThinking = new objects.Label("Ignore it", "1.5em Consolas", "#000000", 210, 300);
             this.addChild(this._choiceThinking);
             // choice 1 button
             this._choiceThinkingDoorButton = new objects.Button("NextButton", 220, 360);
@@ -52,3 +52,4 @@ var states;
     }(objects.Scene));
     states.Scene1 = Scene1;
 })(states || (states = {}));
+//# sourceMappingURL=scene1.js.map

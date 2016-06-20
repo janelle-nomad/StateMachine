@@ -26,3 +26,4 @@ var config;
     config.SCENE_END8 = 98;
     config.SCENE_END9 = 99; // Win!
 })(config || (config = {}));
+//# sourceMappingURL=config.js.map

@@ -50,3 +50,4 @@ var states;
     }(objects.Scene));
     states.Scene8 = Scene8;
 })(states || (states = {}));
+//# sourceMappingURL=scene8.js.map

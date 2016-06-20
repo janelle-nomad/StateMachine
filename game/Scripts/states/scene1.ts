@@ -22,7 +22,7 @@
             this.addChild(this._levelLabel); // add label to the stage
 
             // choice 1 label
-            this._choiceThinking = new objects.Label("Call 911", "1.5em Consolas", "#000000", 210, 300);
+            this._choiceThinking = new objects.Label("Ignore it", "1.5em Consolas", "#000000", 210, 300);
             this.addChild(this._choiceThinking);
             // choice 1 button
             this._choiceThinkingDoorButton = new objects.Button("NextButton", 220, 360);
